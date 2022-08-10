@@ -1,0 +1,1 @@
+<img src="{{url('/images/Vlashey.jpeg')}}"  style="height: 100px;" alt="">
